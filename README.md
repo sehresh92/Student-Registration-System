@@ -44,3 +44,4 @@ Student report link:
 
 https://github.com/sehresh92/Student-Registration-System/blob/main/Report%202.jpg
 
+Thank you for watching my Project Database Project "Student Registration System" :-)
